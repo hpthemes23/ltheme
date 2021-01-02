@@ -142,14 +142,8 @@ END OF TABLE OF CONTENTS */
 	background: -o-linear-gradient(to right, #FF9FE5, #F5F7DC);
 	background: linear-gradient(to right, #FF9FE5, #F5F7DC);
     -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -ms-background-clip: text;
-    -o-background-clip: text;
-    background-clip: text;
     -webkit-text-stroke-width: 3px;
-    text-stroke-width: 3px;
     -webkit-text-stroke-color: transparent;
-    text-stroke-color: transparent;
     color: #0F0326;
 }
 .ltheme-heading-2{
@@ -159,12 +153,7 @@ END OF TABLE OF CONTENTS */
 	background: -o-linear-gradient(to right, #FF9FE5, #F5F7DC);
 	background: linear-gradient(to right, #FF9FE5, #F5F7DC);
     -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -ms-background-clip: text;
-    -o-background-clip: text;
-    background-clip: text;
     -webkit-text-fill-color: transparent;
-    text-fill-color: transparent;
     color: #0F0326;
 }
 /* END OF HEADLINES */
@@ -235,12 +224,7 @@ END OF TABLE OF CONTENTS */
 	background: linear-gradient(to right, #E65F5C, #FFFF82);
 	color: transparent;
 	-webkit-background-clip: text;
-	-moz-background-clip: text;
-    -ms-background-clip: text;
-    -o-background-clip: text;
-    background-clip: text;
 	-webkit-text-fill-color: transparent;
-	text-fill-color: transparent;
 	border-radius: 0;
 	border-width: 9px;
 	border-style: solid;
@@ -271,9 +255,7 @@ END OF TABLE OF CONTENTS */
 	background: -o-linear-gradient(to right, #E65F5C, #FFFF82);
 	background: linear-gradient(to right, #E65F5C, #FFFF82);
 	-webkit-background-clip: text;
-	background-clip: text;
 	-webkit-text-fill-color: transparent;
-	text-fill-color: transparent;
 	border: 0;
 	border-radius: 0;
 }
@@ -305,9 +287,7 @@ END OF TABLE OF CONTENTS */
 	background: linear-gradient(to right, #E65F5C, #FFFF82);
 	color: #0F0326;
 	-webkit-background-clip: text;
-	background-clip: text;
 	-webkit-text-fill-color: transparent;
-	text-fill-color: transparent;
 	border-radius: 0;
 	border-width: 5px;
 	border-style: solid;
@@ -336,9 +316,7 @@ END OF TABLE OF CONTENTS */
 	background: linear-gradient(to right, #E65F5C, #FFFF82);
 	color: #0F0326;
 	-webkit-background-clip: text;
-	background-clip: text;
 	-webkit-text-fill-color: transparent;
-	text-fill-color: transparent;
 }
 /* END OF TEAM */
 /* REVIEWS */
@@ -360,9 +338,7 @@ END OF TABLE OF CONTENTS */
 	background: -o-linear-gradient(to right, #E65F5C, #FFFF82);
 	background: linear-gradient(to right, #E65F5C, #FFFF82);
 	-webkit-background-clip: text;
-	background-clip: text;
 	-webkit-text-fill-color: transparent;
-	text-fill-color: transparent;
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
@@ -401,9 +377,7 @@ END OF TABLE OF CONTENTS */
 	background: -o-linear-gradient(to right, #E65F5C, #FFFF82);
 	background: linear-gradient(to right, #E65F5C, #FFFF82);
 	-webkit-background-clip: text;
-	background-clip: text;
 	-webkit-text-fill-color: transparent;
-	text-fill-color: transparent;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	margin-left: 0;
@@ -556,12 +530,7 @@ img[src*=".svg"] {
 	background: linear-gradient(to right, #E65F5C, #FFFF82);
 	color: transparent;
 	-webkit-background-clip: text;
-	-moz-background-clip: text;
-    -ms-background-clip: text;
-    -o-background-clip: text;
-    background-clip: text;
 	-webkit-text-fill-color: transparent;
-	text-fill-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
 	padding-left: 40px;
@@ -582,7 +551,6 @@ img[src*=".svg"] {
 	background: linear-gradient(to right, #E65F5C, #FFFF82);
 	color: transparent;
 	-webkit-text-fill-color: #0F0326;
-	text-fill-color: #0F0326;
 	border: 0;
 }
 .ltheme-button-2{
@@ -1143,9 +1111,7 @@ img[src*=".svg"] {
 	background: -o-linear-gradient(to right, #E65F5C, #FFFF82);
 	background: linear-gradient(to right, #E65F5C, #FFFF82);
 	-webkit-background-clip: text;
-	background-clip: text;
 	-webkit-text-fill-color: transparent;
-	text-fill-color: transparent;
 	border: 0;
 	border-radius: 0;
 }
@@ -1169,9 +1135,7 @@ img[src*=".svg"] {
 	background: linear-gradient(to right, #E65F5C, #FFFF82);
 	color: #0F0326;
 	-webkit-background-clip: text;
-	background-clip: text;
 	-webkit-text-fill-color: transparent;
-	text-fill-color: transparent;
 	border-radius: 0;
     transition-property: all;
 	transition-duration: 2s;
@@ -1191,9 +1155,7 @@ img[src*=".svg"] {
 	background: linear-gradient(to right, #E65F5C, #FFFF82);
 	color: #0F0326;
 	-webkit-background-clip: text;
-	background-clip: text;
 	-webkit-text-fill-color: transparent;
-	text-fill-color: transparent;
 }
 .lthemeIndex-padding-1{
 	padding: 60px;
